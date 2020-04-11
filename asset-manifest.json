@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "//mapapplication/static/css/main.950f654f.chunk.css",
-    "main.js": "//mapapplication/static/js/main.805b2521.chunk.js",
-    "main.js.map": "//mapapplication/static/js/main.805b2521.chunk.js.map",
-    "runtime-main.js": "//mapapplication/static/js/runtime-main.306f2fe7.js",
-    "runtime-main.js.map": "//mapapplication/static/js/runtime-main.306f2fe7.js.map",
-    "static/js/2.4a3425e3.chunk.js": "//mapapplication/static/js/2.4a3425e3.chunk.js",
-    "static/js/2.4a3425e3.chunk.js.map": "//mapapplication/static/js/2.4a3425e3.chunk.js.map",
-    "index.html": "//mapapplication/index.html",
-    "precache-manifest.66b7a2cd2ad931406f246cf108fc8723.js": "//mapapplication/precache-manifest.66b7a2cd2ad931406f246cf108fc8723.js",
-    "service-worker.js": "//mapapplication/service-worker.js",
-    "static/css/main.950f654f.chunk.css.map": "//mapapplication/static/css/main.950f654f.chunk.css.map",
-    "static/js/2.4a3425e3.chunk.js.LICENSE.txt": "//mapapplication/static/js/2.4a3425e3.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "//mapapplication/static/media/logo.5d5d9eef.svg"
+    "main.css": "/mapapplication/static/css/main.950f654f.chunk.css",
+    "main.js": "/mapapplication/static/js/main.9f56e487.chunk.js",
+    "main.js.map": "/mapapplication/static/js/main.9f56e487.chunk.js.map",
+    "runtime-main.js": "/mapapplication/static/js/runtime-main.3360fdd4.js",
+    "runtime-main.js.map": "/mapapplication/static/js/runtime-main.3360fdd4.js.map",
+    "static/js/2.4a3425e3.chunk.js": "/mapapplication/static/js/2.4a3425e3.chunk.js",
+    "static/js/2.4a3425e3.chunk.js.map": "/mapapplication/static/js/2.4a3425e3.chunk.js.map",
+    "index.html": "/mapapplication/index.html",
+    "precache-manifest.29c7b9029d30d3d2d9bf2a2863d52530.js": "/mapapplication/precache-manifest.29c7b9029d30d3d2d9bf2a2863d52530.js",
+    "service-worker.js": "/mapapplication/service-worker.js",
+    "static/css/main.950f654f.chunk.css.map": "/mapapplication/static/css/main.950f654f.chunk.css.map",
+    "static/js/2.4a3425e3.chunk.js.LICENSE.txt": "/mapapplication/static/js/2.4a3425e3.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/mapapplication/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.306f2fe7.js",
+    "static/js/runtime-main.3360fdd4.js",
     "static/js/2.4a3425e3.chunk.js",
     "static/css/main.950f654f.chunk.css",
-    "static/js/main.805b2521.chunk.js"
+    "static/js/main.9f56e487.chunk.js"
   ]
 }
